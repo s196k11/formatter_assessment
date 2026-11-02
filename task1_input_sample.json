@@ -1,0 +1,289 @@
+{
+  "unit_code": "FWPCOT2275",
+  "unit_title": "Fell trees manually (basic)",
+  "questions": [
+    {
+      "type": "mcq",
+      "chapter": "4",
+      "section": "4.1",
+      "question": "What is the main purpose of the scarf cut?",
+      "options": {
+        "A": "To sharpen the chain",
+        "B": "To set the direction of fall",
+        "C": "To remove bark",
+        "D": "To cool the bar"
+      },
+      "answer": "B"
+    },
+    {
+      "type": "fill_blank",
+      "chapter": "2",
+      "section": "2.1",
+      "answer_topic": "workplace safety terms",
+      "word_bank": [
+        "hazard",
+        "risk",
+        "control",
+        "hinge",
+        "isolate"
+      ],
+      "sentences": [
+        {
+          "text": "A __________ is anything with the potential to cause harm.",
+          "answer": "hazard"
+        },
+        {
+          "text": "The likelihood and consequence of harm is called the __________.",
+          "answer": "risk"
+        },
+        {
+          "text": "Wood left uncut between the scarf and back cut is the __________ wood.",
+          "answer": "hinge"
+        }
+      ]
+    },
+    {
+      "type": "rearrange",
+      "chapter": "5",
+      "section": "5.2",
+      "question": "Arrange these chain-sharpening steps in the correct sequence.",
+      "steps": [
+        "Isolate and switch off the chainsaw",
+        "Secure the bar and clean the chain",
+        "Select the correct file size",
+        "File each cutter to the same length",
+        "Check depth gauges and refit the chain"
+      ]
+    },
+    {
+      "type": "match",
+      "chapter": "4",
+      "section": "4.1",
+      "answer_topic": "felling cut terminology",
+      "question": "Match each felling term in Column A with its description in Column B.",
+      "pairs": [
+        [
+          "Scarf cut",
+          "Notch that sets the direction of fall"
+        ],
+        [
+          "Back cut",
+          "Final cut made above the scarf line"
+        ],
+        [
+          "Hinge wood",
+          "Uncut wood that guides the fall"
+        ]
+      ],
+      "extra_options": [
+        "Cut that removes branches"
+      ]
+    },
+    {
+      "type": "tabular",
+      "chapter": "1",
+      "section": "1.7",
+      "n_rows": 7,
+      "n_columns": 5,
+      "question": "Match each item in Column 1 with the correct safe-use requirement in Column 2, operation in Column 3 and maintenance requirement in Column 4.",
+      "answer_note": "Students must correctly match each chainsaw, support tool or attachment with its appropriate safe-use requirement, operation and routine maintenance requirement.",
+      "columns": [
+        "Column 1 – Chainsaw, support tool or attachment",
+        "Column 2 – Safe use",
+        "Column 3 – Operation",
+        "Column 4 – Maintenance",
+        "Correct match"
+      ],
+      "rows": [
+        [
+          "1. Chainsaw",
+          "A. Use from a stable position and within the tool’s intended capacity.",
+          "i. Used to adjust chain tension and remove or fit chainsaw components.",
+          "α. Inspect for cracks, mushrooming or other damage and replace if damaged.",
+          "C – vii – δ"
+        ],
+        [
+          "2. Guide bar",
+          "B. Do not touch or adjust the chain while the chainsaw is running; ensure correct tension before use.",
+          "ii. Provides leverage to assist movement or control of timber where appropriate.",
+          "β. Clean the bar groove and oil holes and inspect for wear or damage.",
+          "G – iv – β"
+        ],
+        [
+          "3. Saw chain",
+          "C. Wear required PPE, maintain a stable stance and keep both hands on the saw during operation.",
+          "iii. Stops or restricts movement of the saw chain when activated.",
+          "γ. Check the handle and lifting components for wear, damage or looseness.",
+          "B – v – ε"
+        ],
+        [
+          "4. Chain brake",
+          "D. Keep hands clear when driving wedges and use only suitable, undamaged wedges.",
+          "iv. Guides and supports the saw chain as it travels around the cutting system.",
+          "δ. Clean the saw and check fasteners, lubrication, chain condition and required service items.",
+          "E – iii – ζ"
+        ],
+        [
+          "5. Felling wedge",
+          "E. Confirm the brake operates correctly before use and engage it when required by safe operating procedures.",
+          "v. Cuts timber as the saw chain travels around the guide bar.",
+          "ε. Check sharpness, tension, cutters and drive links; sharpen, adjust or replace as required.",
+          "D – vi – α"
+        ],
+        [
+          "6. Felling lever",
+          "F. Use the correct tool and isolate the chainsaw before making adjustments.",
+          "vi. Helps keep the back cut open and assists control of the tree during felling.",
+          "ζ. Inspect and test the brake mechanism and keep the area clean and free of debris.",
+          "A – ii – γ"
+        ],
+        [
+          "7. Combination spanner/tool",
+          "G. Ensure the guide bar is correctly fitted and keep clear of the moving chain during operation.",
+          "vii. Drives the saw chain around the guide bar to cut timber.",
+          "η. Keep clean, inspect for wear or damage and replace if it no longer fits components correctly.",
+          "F – i – η"
+        ]
+      ],
+      "prefilled": {
+        "columns": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "type": "tabular",
+      "chapter": "1",
+      "section": "1.2",
+      "n_rows": 5,
+      "n_columns": 3,
+      "question": "Complete the table below about environmental protection requirements and practices that apply when felling trees with chainsaws. For each source listed, identify one relevant environmental protection requirement and one practice used to meet it.",
+      "answer_note": "Answers may vary. Students must answer based on their knowledge of environmental protection requirements and practices meeting legal, industry, state, local and code requirements.",
+      "columns": [
+        "Source of requirement",
+        "Environmental protection requirement – 10–15 words",
+        "Practice used to meet the requirement – 10–15 words"
+      ],
+      "rows": [
+        [
+          "Legal obligations",
+          "Prevent environmental harm and comply with applicable environmental and heritage protection laws.",
+          "Identify protected areas and apply required controls before and during tree-felling activities."
+        ],
+        [
+          "Industry requirements",
+          "Follow accepted forestry environmental procedures for managing site impacts and protecting environmental values.",
+          "Minimise unnecessary vegetation, soil and habitat disturbance throughout planned chainsaw felling operations."
+        ],
+        [
+          "State standards or requirements",
+          "Follow applicable state controls for vegetation, waterways, waste and environmentally sensitive areas.",
+          "Maintain required buffers, exclusion zones and environmental controls identified for the worksite."
+        ],
+        [
+          "Local standards or requirements",
+          "Follow applicable local controls for vegetation protection, access, waste and sensitive locations.",
+          "Check local site restrictions and apply required controls before starting chainsaw felling."
+        ],
+        [
+          "Applicable codes of practice",
+          "Follow relevant codes providing environmental guidance for responsible chainsaw tree-felling activities.",
+          "Apply specified environmental controls during site preparation, felling, equipment uses and clean-up."
+        ]
+      ],
+      "prefilled": {
+        "columns": [
+          0
+        ]
+      }
+    },
+    {
+      "type": "tabular",
+      "chapter": "1",
+      "section": "1.4",
+      "question": "Complete the pre-start check table. The first row is already filled in for you as an example.",
+      "answer_topic": "chainsaw pre-start checks",
+      "columns": [
+        "Part",
+        "What to check",
+        "Fault action"
+      ],
+      "rows": [
+        [
+          "Chain brake",
+          "Stops the chain immediately",
+          "Tag out and report"
+        ],
+        [
+          "Chain",
+          "Sharp and correctly tensioned",
+          "Sharpen or replace"
+        ],
+        [
+          "Bar",
+          "No burrs or damage",
+          "Dress or replace"
+        ]
+      ],
+      "prefilled": {
+        "rows": [
+          0
+        ],
+        "columns": [
+          0
+        ]
+      }
+    },
+    {
+      "type": "scenario",
+      "scenario": [
+        "You are about to fell a basic eucalypt on a sloping site.",
+        "A co-worker is trimming a limb about 15 metres from the fall zone and the wind has started gusting toward them."
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "chapter": "3",
+          "section": "3.1",
+          "question": "What is the first action you should take?",
+          "options": {
+            "A": "Start the saw to save time",
+            "B": "Stop and re-check the fall zone and wind direction",
+            "C": "Ask the worker to move after the cut",
+            "D": "Cut a smaller scarf"
+          },
+          "answer": "B"
+        },
+        {
+          "type": "written",
+          "chapter": "2",
+          "section": "2.4",
+          "question": "Explain how you would keep the co-worker safe.",
+          "word_limit_text": "Answer must be within 50 words.",
+          "sample_answer": "Stop work, signal the co-worker and agree on a clear exclusion zone. Confirm they are outside the fall zone and have acknowledged the signal before cutting resumes."
+        }
+      ]
+    },
+    {
+      "type": "scenario",
+      "scenario": "Your supervisor asks you to fell a leaning tree near a power line.",
+      "questions": [
+        {
+          "type": "written",
+          "chapter": "3",
+          "section": "3.1",
+          "word_limit_text": "Answer must be within 100-150 words.",
+          "question": "Describe what you would do before starting.",
+          "sample_answer": "Recognise that the tree is outside basic scope, stop work and report to the supervisor. Do not start until an appropriately skilled person has assessed the tree and the power line risk."
+        }
+      ]
+    },
+    {
+      "type": "benchmark_statement",
+      "text": "Example benchmarking statement for the scenario question above."
+    }
+  ]
+}
